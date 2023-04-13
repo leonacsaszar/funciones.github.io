@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: space-evenly;
+    height: 100vh;
+    align-items: center;
+}
+
+div {
+    width: 200px;    
+    height: 200px;
+}
+
+
+#amarillo {
+    background-color: yellow;
+}
+
+
+#rojo {
+    background-color: red;
+}
+
+
+#morado {
+    background-color: purple;
+}
+
+
+#verde {
+    background-color: green;
+}
